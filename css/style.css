@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+
+body {
+	font-size: 5em;
+	background-color: #2B2B2B
+}
+p {
+	font-family:'Righteous', cursive;
+	color:chartreuse;
+    border: 5px solid; 
+	border-color:chartreuse;
+}
+p.dp{
+	font-family: 'Righteous', cursive;
+	color:darkorange;
+	border: 5px solid;
+	 border-radius: 5px;
+	border-color:darkorange;
+}
+p.tp { 
+	font-family: 'Righteous', cursive;
+	color:orange;
+	border-style: dotted dashed solid double;
+  border-width: 5px;
+  border-color:orange;
+	 border-radius: 5px;
+}
+p.cp {
+	text-align: center;
+	font-family: 'Righteous', cursive;
+	color:aqua;
+	border-style: dotted dashed solid double;
+  border-width: 5px;
+  border-color:aqua;
+	 border-radius: 5px;}
